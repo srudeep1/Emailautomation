@@ -1,0 +1,17 @@
+--- 
+data: 
+  - 
+    FROM: srudeep.10@gmail.com
+  - 
+    TO: srudeep.9@gmail.com
+  - 
+    SUBJECT: "This is Testnew"
+  - 
+    MESSAGE: "Hi Srudeep,\n\
+
+
+              This is a test email. Your application is running succesfully.\n\
+
+
+              Regards,\n\
+              Srudeep "
