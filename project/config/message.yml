@@ -1,16 +1,33 @@
 --- 
-data: 
+data0: 
   - 
-    FROM: srudeep.10@gmail.com
+    FROM: srudeep.9@gmail.com
   - 
-    TO: srudeep.9@gmail.com
+    TONAME: srudeep
   - 
-    SUBJECT: "This is Testnew"
+    SUBJECT: "TEST mail"
   - 
-    MESSAGE: "Hi Srudeep,\n\
+    MESSAGE: "Hi {},\n\
 
 
-              This is a test email. Your application is running succesfully.\n\
+              This is a test email. \n\
+
+
+              Regards,\n\
+              Srudeep "
+
+data1:
+  - 
+    FROM: srudeep.9@gmail.com
+  - 
+    TONAME: srudeep
+  - 
+    SUBJECT: "This is Testnew1"
+  - 
+    MESSAGE: "Hi {},\n\
+
+
+              This is a test1 email. Your application is running succesfully.\n\
 
 
               Regards,\n\
